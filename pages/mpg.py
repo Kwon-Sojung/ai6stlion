@@ -2,6 +2,7 @@ import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
 import koreanize_matplotlib
+from IPython.core.display import HTML
 
 st.set_page_config(
     page_title="Likelion AI School 자동차 연비 App",
